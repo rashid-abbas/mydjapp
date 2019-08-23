@@ -1,0 +1,2 @@
+# mydjapp
+A Django App
